@@ -17,6 +17,8 @@ You can download it or clone
 After install Uvicorn and FastAPI using PIP, run
 > uvicorn main:app --reload
 
+to open documentation of the API, put /docs after main URL
+
 ## ⛏️ Built Using <a name = "built_using"></a>
 
 - [PostgreSQL](https://www.postgresql.org/) - Database
